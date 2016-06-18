@@ -1,0 +1,3 @@
+include ':openflappybird', ':andengine', ':andenginePhysicsBox2dExtension'
+include ':andEngine'
+include ':andEnginePhysicsBox2DExtension'
