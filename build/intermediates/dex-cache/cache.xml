@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_a065a79727fdaa6ba34d18ed390907e8411a0661/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e311cc852a063110c21e62bf264a0214e7fce9f1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_361e1182fed9ecff1987cf7f1aa49e73ec4ba336/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_92a609f0ef014bd44520fd90041b54f040398c2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_29109e213c47b878bbbae459db630b5b5fa9e09d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1bbcd82cdb36f0384414b4c70d99bf85704406ff">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bd1d36154a1bd37f2e8860067ea68420e469f1cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="77fe41313ce8745ff803faa5bec444b358cb23b3">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_744fa823c7f633fe696561dbcefa69ab61c10c8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/ryan/Desktop/FlappyFriends/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_4372153e5b06e775251764e5de1c3cfec3e8d49d/classes.dex" />
+    </item>
+
+</items>
